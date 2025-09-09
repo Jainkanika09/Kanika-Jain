@@ -45,7 +45,8 @@ To grow as a **Data Analyst or HR Specialist** in innovative companies like **Am
 ---
 
 ## 📂 Featured Projects
-- 📊 [HR Analytics Dashboard](#) – Power BI dashboard analyzing attrition, salary trends, and employee performance  
+- 📊 [HR Analytics Dashboard](https://github.com/Jainkanika09/Kanika-Jain/blob/main/salary%20data%20screenshot.png)
+-  – Power BI dashboard analyzing attrition, salary trends, and employee performance  
 - 📈 [Excel Business Insights](#) – Automated Excel reports for data-driven decision-making  
 - 🤖 [ChatGPT-Powered Data Analysis](#) – Examples of using AI to optimize HR & business processes  
 
