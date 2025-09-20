@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mohsin Raza</h1>
+<h1 align="center">Hi there 👋, I'm Kanika Jain </h1>
 
 <h3 align="center">📊 Data Analyst | ⚡ Sports Analytics | 🧩 Power BI/SQL/Python Expert | ✍ Tech Content Creator</h3>
 
@@ -12,7 +12,7 @@
 
 ✨ *Data Storyteller:* I uncover hidden insights, turn complexity into clarity, and help teams make decisions with confidence.
 
-🏏 *Sports Fanatic:* I love decoding sports stats to predict match-winners, player performances, and game-changing moments.
+🏏 *Human Resource :* I love decoding employee data to for record making , performances analysis and helpfull in decision making.
 
 ✍ *Content Creator:* Sharing tips & tutorials that help early-career data professionals level up - faster, smarter.
 
@@ -23,9 +23,8 @@
 ## ⚡ What I Love to Build
 
 - 📊 *Interactive Dashboards:* Power BI, Tableau, Excel
-- 🏆 *Sports Analytics Projects:* Match predictions, performance metrics
-- 🔄 *Automations:* SQL + Python for smart workflows
-- 🔍 *Data Engineering Pipelines:* ETL, big data wrangling
+- 🏆 *Human Resource Projects:* Descion making, performance metrics
+- 🔄 *Automations:* SQL for smart workflows
 - 🤖 *ML Experiments:* AI insights for sports & business
 - 📚 *Tutorials & Templates:* For the data community
 
@@ -33,11 +32,10 @@
 
 ## 🧰 Tech Stack
 
-*Languages:* Python | SQL | PySpark  
-*Databases:* MySQL | PostgreSQL | SQL Server  
-*Visualization:* Power BI | Tableau | Excel | Matplotlib | Seaborn  
-*Data Handling:* Pandas | NumPy | ETL Pipelines  
-*Tools:* VS Code | Jupyter Notebook | Kaggle | Power Apps | Microsoft Fabric
+*Languages:*  SQL 
+*Databases:* MySQL  
+*Visualization:* Power BI | Tableau | Excel |  
+
 
 ---
 
