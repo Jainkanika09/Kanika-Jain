@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Kanika Jain </h1>
 
-<h3 align="center">📊 Data Analyst | ⚡ Human Resouce Analytics | 🧩 Power BI/SQL Expert | >
+<h3 align="center">📊 Data Analyst | ⚡ Human Resouce Analytics | 🧩 Power BI/SQL Expert | 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Winning+Insights!Human Resouces+Analytics+%7C+SQL+%7C+Python+%7C+BI+Tools;Tech+Content+Creator+%7C+Helping+Data+Professionals+Grow;Data+Driven+Decisions+that+Make+Impact;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
@@ -42,15 +42,15 @@
 ## 📈 GitHub By The Numbers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohsinR11&label=Profile%20Views&color=00BFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Jainkanika09&label=Profile%20Views&color=00BFFF" alt="Profile Views" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinR11&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jainkanika09&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinR11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jainkanika09&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinR11&theme=radical" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainkanika09&theme=radical" alt="Contribution Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsinR11&theme=rogue" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainkanika09&theme=rogue" alt="Activity Graph" />
 </p>
 
 ---
