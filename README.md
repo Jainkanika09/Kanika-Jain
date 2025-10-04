@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Kanika Jain </h1>
 
-<h3 align="center">📊 Data Analyst | ⚡ Human Resouce Analytics | 🧩 Power BI/SQL Expert | ✍ Tech Content Creator</h3>
+<h3 align="center">📊 Data Analyst | ⚡ Human Resouce Analytics | 🧩 Power BI/SQL Expert | >
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Winning+Insights!Human Resouces+Analytics+%7C+SQL+%7C+Python+%7C+BI+Tools;Tech+Content+Creator+%7C+Helping+Data+Professionals+Grow;Data+Driven+Decisions+that+Make+Impact;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
