@@ -3,7 +3,7 @@
 <h3 align="center">📊 Data Analyst | ⚡ Human Resouce Analytics | 🧩 Power BI/SQL Expert | ✍ Tech Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Winning+Insights!;Sports+Analytics+%7C+SQL+%7C+Python+%7C+BI+Tools;Tech+Content+Creator+%7C+Helping+Data+Professionals+Grow;Data+Driven+Decisions+that+Make+Impact;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Winning+Insights!Human Resouces+Analytics+%7C+SQL+%7C+Python+%7C+BI+Tools;Tech+Content+Creator+%7C+Helping+Data+Professionals+Grow;Data+Driven+Decisions+that+Make+Impact;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
   <a href="https://github.com/Jainkanika09" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Jainkanika09" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://jainkanika09.github.io/jainkanika.github.io/" target="_blank">
