@@ -64,7 +64,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://jainkanika09.github.io/jainkanika.github.io/" target="_blank">
+  <a href="https://jainkanika09.github.io/jainkanika09.git.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </p>
